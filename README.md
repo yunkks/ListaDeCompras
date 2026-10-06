@@ -1,5 +1,5 @@
 # ListaDeCompras
-Projeto experimental desenvolvido em Java para a criação de listas de compras utilizando uma Interface Gráfica do Usuário (GUI)
+Projeto experimental desenvolvido em Java para a criação de listas de compras utilizando uma Interface Gráfica do Usuário (GUI).
 
 O projeto apresentado consiste em um projeto simples realizado com o intuito de familiarização com a linguagem Java utilizando uma Interface Gráfica do Usuário (GUI) desenvolvida com a biblioteca JavaFX.
 
